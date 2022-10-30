@@ -1,6 +1,8 @@
 # cama
 https://www.teachmemicro.com/using-esp32-for-the-first-time/
+
 https://docs.ai-thinker.com/en/esp32/boards/nodemcu_32s
+
 https://cyberblogspot.com/nodemcu-esp-32s-pin-configuration/
 
 Instalar drivers y bridge.
