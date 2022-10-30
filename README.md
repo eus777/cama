@@ -6,6 +6,7 @@ https://docs.ai-thinker.com/en/esp32/boards/nodemcu_32s
 https://cyberblogspot.com/nodemcu-esp-32s-pin-configuration/
 
 Instalar drivers y bridge.
+
 En el IDE ir a File->Preferences y en Additional boards manager URLs poner:
 https://dl.espressif.com/dl/package_esp32_index.json
 
