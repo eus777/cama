@@ -14,19 +14,20 @@ ESP32:
 
 https://lastminuteengineers.com/esp32-pinout-reference/
 
+https://olddocs.zerynth.com/r2.6.2/official/board.zerynth.doit_esp32/docs/index.html
+
 
 
 ### Instrucciones:
 
-Instalar drivers y bridge.
+- Instalar drivers y bridge.
 
-En el IDE ir a File->Preferences y en Additional boards manager URLs poner:
+- En el IDE ir a File->Preferences y en Additional boards manager URLs poner:  
 https://dl.espressif.com/dl/package_esp32_index.json
 
-En Boards Manager (barra de la derecha) instalar "esp32 by Espressif Systems"
+- En Boards Manager (barra de la derecha) instalar "esp32 by Espressif Systems"  
 
-En el combo superior donde te deja elegir la placa que querés usar, "Seelect other board and port..."
-
-Buscar
+- En el combo superior donde te deja elegir la placa que querés usar, "Seelect other board and port..."  
+Buscar:
   - NodeMCU-32S. COM5.
   - DOIT ESP32 DEVKIT V1 (Imagino que tambien es COM5)
